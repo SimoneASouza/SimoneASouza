@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=500&color=CD5C5C&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Simone+Souza.;I+Graduated+systems+Development.;Be+Welcome+!++%E2%9C%8C%EF%B8%8F%F0%9F%98%89)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimoneASouza&show_icons=true&count_private=true&hide_border=true&title_color=CD5C5C&icon_color=CD5C5C&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimoneASouza&show_icons=true&count_private=true&hide_border=true&title_color=CD5C5C&icon_color=CD5C5C&text_color=DB526A&bg_color=DCD597" alt="SimoneASouza github stats"/>  
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simoneadesouza/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100002730165001)
@@ -24,10 +25,10 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)&nbsp;
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
@@ -59,6 +60,8 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer"/>
+![Work](https://github.com/SimoneASouza/SimoneASouza/blob/main/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)&nbsp;
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer"/>
   
